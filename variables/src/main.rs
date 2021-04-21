@@ -43,4 +43,5 @@ fn multi() {
     let b: [u32; 5] = [3; 5];
 
     // vector one type and length can append
+    //test
 }
